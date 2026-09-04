@@ -1,7 +1,7 @@
 # SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL – SENAC
 ## Curso de Tecnologia em Análise e Desenvolvimento de Sistemas
 
-**PROJETO INTEGRADOR:** Desenvolvimento de Sistemas Orientado a Dispositivos Móveis e Baseados na Web
+**PROJETO INTEGRADOR:** Análise de soluções integradas para organizações
 
 ### Integrantes do Grupo
 * Bernardo Ribeiro Coelho
@@ -12,9 +12,10 @@
 * Paola Ribeiro de Andrade
 * Vivian Barbosa Pinheiro
 
-**Orientadores:** Gustavo Moreira Calixto e Édson Ceroni  
-**Semestre:** 4º Semestre  
-**Modalidade:** EAD - Ensino à Distância - 2026
+**Orientador:** Adriano Milanez  
+**Semestre:** 5º Semestre  
+**Modalidade:** EAD - Ensino à Distância - 2026  
+**Vídeo de apresentação:** https://youtu.be/y41GjwnaXAI?feature=shared
 
 ## Projeto RotaSegura
 
@@ -26,7 +27,6 @@ A solução proposta é um aplicativo focado na avaliação da qualidade do serv
 
 ### 3. Visão do Produto
 O objetivo central é transformar a insatisfação individual em dados estruturados e acionáveis para órgãos reguladores e mídia, promovendo o engajamento cívico. Ao focar no *crowdsourcing* de dados de infraestrutura, o produto empodera as classes dependentes do sistema, gerando informações precisas para exigir investimentos e melhorias concretas na mobilidade urbana.
-
 
 ### 4. Prova de Conceito (PoC)
 
@@ -52,8 +52,8 @@ A PoC consistirá em um protótipo funcional contendo:
 
 ## Referências
 
-* **EDENRED, Gestão de Mobilidade. **Transporte público no Brasil e realidade da jornada casa para o trabalho**. 2025. Disponível em: [Blog Edenred](https://blog.edenredmobilidade.com.br/gestao-mobilidade/transporte-publico-no-brasil/#:~:text=Uma%20pesquisa%20divulgada%20pela%20TVT%20News%20tamb%C3%A9m,atrasos%20constantes%20e%20inseguran%C3%A7a%20como%20principais%20queixas). Acesso em: 28 nov. 2025.
+* EDENRED, Gestão de Mobilidade. **Transporte público no Brasil e realidade da jornada casa para o trabalho**. 2025. Disponível em: [Blog Edenred](https://blog.edenredmobilidade.com.br/gestao-mobilidade/transporte-publico-no-brasil/#:~:text=Uma%20pesquisa%20divulgada%20pela%20TVT%20News%20tamb%C3%A9m,atrasos%20constantes%20e%20inseguran%C3%A7a%20como%20principais%20queixas). Acesso em: 28 nov. 2025.
 
-* **RODRIGUES, A. S. **A crise da mobilidade e a infraestrutura do transporte público nas metrópoles brasileiras**. Revista Brasileira de Planejamento Urbano, v. 12, n. 2, p. 45-67, 2022.
+* RODRIGUES, A. S. **A crise da mobilidade e a infraestrutura do transporte público nas metrópoles brasileiras**. Revista Brasileira de Planejamento Urbano, v. 12, n. 2, p. 45-67, 2022.
 
-* **RODRIGUES, A. S. **Transporte e desigualdade: o impacto da má conservação na rotina do trabalhador**. 2. ed. Rio de Janeiro: Editora Acadêmica, 2023.
+* RODRIGUES, A. S. **Transporte e desigualdade: o impacto da má conservação na rotina do trabalhador**. 2. ed. Rio de Janeiro: Editora Acadêmica, 2023.
