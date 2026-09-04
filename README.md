@@ -50,6 +50,13 @@ A PoC consistirá em um protótipo funcional contendo:
 * **Backend e Banco de Dados:** Firebase® (Cloud Firestore® para dados em tempo real).
 * **Mapas:** Google Maps SDK®.
 
+### 6. Desenvolvimento
+
+Como o projeto foi desenvolvido e suas tecnologias.
+
+#### 6.1 Banco de Dados
+* **Arquitetura inicial do BD:** PostgreSQL®.
+
 ## Referências
 
 * EDENRED, Gestão de Mobilidade. **Transporte público no Brasil e realidade da jornada casa para o trabalho**. 2025. Disponível em: [Blog Edenred](https://blog.edenredmobilidade.com.br/gestao-mobilidade/transporte-publico-no-brasil/#:~:text=Uma%20pesquisa%20divulgada%20pela%20TVT%20News%20tamb%C3%A9m,atrasos%20constantes%20e%20inseguran%C3%A7a%20como%20principais%20queixas). Acesso em: 28 nov. 2025.
