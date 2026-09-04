@@ -56,6 +56,7 @@ Como o projeto foi desenvolvido e suas tecnologias.
 
 #### 6.1 Banco de Dados
 * **Arquitetura inicial do BD:** PostgreSQL®.
+![Imagem do Banco de Dados inicial do projeto desenvolvido com o PostgreSQL](dbRotaSegura.jpeg)
 
 ## Referências
 
